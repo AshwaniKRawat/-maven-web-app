@@ -1,6 +1,6 @@
 <html>
 <body>
-<table style="height: 100%; width: 100%; background-color: black; color: white">
+<table style="height: 100%; width: 100%; background-color: white; color: white">
 <tr>
 <td>
 <center><h1><font color='Blue'> Learn new technology with Ashwani  <font></h1></center>
