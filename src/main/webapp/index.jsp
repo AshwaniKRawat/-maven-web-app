@@ -69,7 +69,7 @@ work of Java developers easier and generally help with the comprehension of any 
   
 <tr>
 <td>
-<center>For More information call to @8888896676.</center>
+<center>For More information call to Ashwani @8888896676 or send eamil to rawat.ashwani@gmail.com</center>
 </td>
 </tr>
 </table>
